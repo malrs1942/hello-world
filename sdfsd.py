@@ -1,2 +1,3 @@
-def function():
-  asdasdasd
+def mecha():
+  print("hola mundo")
+  
