@@ -4,4 +4,6 @@ def mecha():
 def mechaDos():
   print("hola2")
 
-print(mecha()+mechaDos())
+print("adas")
+
+mechaDos()
